@@ -59,7 +59,7 @@ public class VariableTutorial {
 
         // 3-2 실수형
         System.out.println("---float,double---");
-        float floatType = 3.4028235E38F; // 메모리크기 4 byte, 표현 가능 범위 1.40239846E-45f ~ 3.40282347E+38f
+        float floatType = 3.4028235E38f; // 메모리크기 4 byte, 표현 가능 범위 1.40239846E-45f ~ 3.40282347E+38f
                                          // bit 구성 ->  부호(1bit)+지수(8bit)+가수(23bit) = 32bit = 4 byte
         double doubleType = 1.7976931348623157E308; // 메모리크기 8 byte, 표현 가능 범위위 4.94065645841246544E-324 ~ 1.79769313486231570E+308
                                                     // bit 구성 -> 부호(1bit)+지수(11bit)+가수(52bit) = 64bit = 8 byte
@@ -75,6 +75,7 @@ public class VariableTutorial {
         // 실제 값을 표현하는 지수 부분과 소수점 자리수를 구분하는 지수부분이 나뉘어져 있기 때문에 오차가 존재할 수 밖에 없다.
 
         // 정수와 마찬가지로 기본적으로 float 를 사용하고 float 로 표현할 수 없는 값의 범위를 표현할 때는 double 을 사용한다
+        // float 와 double 을 구분하기 위해 float 타입에는 숫자 뒤에 f를 붙여준다.
 
         // 3-3 문자형
         System.out.println("---char---");

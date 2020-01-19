@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8cd4093a-f8ac-473b-820d-afcd1102fda4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/VariableTutorial/META-INF/VariableTutorial.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/VariableTutorial/VariableTutorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VariableTutorial/VariableTutorial.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/VariableTutorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VariableTutorial.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,6 +87,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="73" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1579439486566" />
+    <state x="369" y="153" key="FileChooserDialogImpl" timestamp="1579449920208">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="369" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1579449920208" />
     <state width="723" height="210" key="GridCell.Tab.0.bottom" timestamp="1579449588874">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -106,10 +107,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="723" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579449588874" />
-    <state x="82" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1579440134599">
+    <state x="82" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1579449826101">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="82" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1579440134599" />
+    <state x="82" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1579449826101" />
+    <state x="0" y="22" key="new project wizard" timestamp="1579449921672">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1579449921672" />
     <state x="46" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1579449470154">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
