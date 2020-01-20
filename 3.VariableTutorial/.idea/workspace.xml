@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8cd4093a-f8ac-473b-820d-afcd1102fda4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VariableTutorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VariableTutorial.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,10 +106,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="723" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579449588874" />
-    <state x="82" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1579449826101">
+    <state x="82" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1579548175158">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="82" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1579449826101" />
+    <state x="82" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1579548175158" />
     <state x="0" y="22" key="new project wizard" timestamp="1579449921672">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
