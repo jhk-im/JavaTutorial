@@ -48,7 +48,7 @@ public class ScannerTest {
         // System.out 은 PrintStream 클래스의 객체이다.
         // PrintStream 은 콘솔에 값을 출력할 때 사용하는 클래스이다.
         // System.out.println 은 콘솔로 디버깅 할 때 많이 사용된다.
-        // System.err 은 오류메세지를 출력할 경우 사용하게 되어있따.
+        // System.err 은 오류메세지를 출력할 경우 사용하게 되어있다.
     }
 
 }
